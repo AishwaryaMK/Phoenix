@@ -1,0 +1,160 @@
+Location,Year,Season,Area ,Production,Yield,crop
+Ariyalur,2013-2014,Kharif,777,2888,3.72,Bajra
+Ariyalur,2013-2014,Rabi,95,190,2.00,Bajra
+Ariyalur,2014-2015,Kharif,658,2155,3.28,Bajra
+Ariyalur,2014-2015,Rabi,63,198,3.14,Bajra
+Ariyalur,2015-2016,Kharif,649,2305,3.55,Bajra
+coimbatore,2013-2014,Kharif,56,128,2.29,Bajra
+coimbatore,2013-2014,Rabi,18,36,2.00,Bajra
+coimbatore,2014-2015,kharif,98,296,3.02,Bajra
+coimbatore,2014-2015,Rabi,3,9,3.00,Bajra
+coimbatore,2015-2016,Kharif,40,108,2.70,Bajra
+coimbatore,2015-2016,Rabi,26,64,2.46,Bajra
+Cuddalore,2013-2014,Kharif,3361,7929,2.36,Bajra
+Cuddalore,2013-2014,Rabi,198,397,2.01,Bajra
+Cuddalore,2014-2015,Kharif,3338,11020,3.30,Bajra
+Cuddalore,2014-2015,Rabi,25,79,3.16,Bajra
+Cuddalore,2015-2016,Kharif,3396,10106,2.98,Bajra
+Cuddalore,2015-2016,Rabi,94,230,2.45,Bajra
+Dharmapuri,2013-2014,Kharif,405,904,2.23,Bajra
+Dharmapuri,2013-2014,Rabi,67,134,2.00,Bajra
+Dharmapuri,2014-2015,Kharif,614,2673,4.35,Bajra
+Dharmapuri,2014-2015,Rabi,27,85,3.15,Bajra
+Dharmapuri,2015-2016,Kharif,1541,6851,4.45,Bajra
+Dharmapuri,2015-2016,Rabi,2,5,2.50,Bajra
+Madurai,2013-2014,Kharif,1321,2161,1.64,Bajra
+Madurai,2013-2014,Rabi,988,2150,2.18,Bajra
+Madurai,2014-2015,Kharif,1203,2827,2.35,Bajra
+Madurai,2014-2015,Rabi,1026,2813,2.74,Bajra
+Madurai,2015-2016,Kharif,1049,2368,2.26,Bajra
+Madurai,2015-2016,Rabi,738,2456,3.33,Bajra
+Ariyalur,2013-2014,Whole year,131,5441,41.53,Banana
+Ariyalur,2014-2015,Whole year,156,6350,40.71,Banana
+Ariyalur,2015-2016,Whole year,178,6821,38.32,Banana
+coimbatore,2013-2014,Whole year,7412,324506,43.78,Banana
+coimbatore,2014-2015,Whole year,8115,312451,38.50,Banana
+coimbatore,2015-2016,Whole year,8199,348384,42.49,Banana
+Cuddalore,2013-2014,Whole year,4251,171740,40.40,Banana
+Cuddalore,2014-2015,Whole year,4348,221235,50.88,Banana
+Cuddalore,2015-2016,Whole year,4481,262501,58.58,Banana
+Dharmapuri,2013-2014,Whole year,619,25710,41.53,Banana
+Dharmapuri,2014-2015,Whole year,416,16933,40.70,Banana
+Dharmapuri,2015-2016,Whole year,526,20156,38.32,Banana
+Madurai,2013-2014,Whole year,2427,100803,41.53,Banana
+Madurai,2014-2015,Whole year,2356,95901,40.71,Banana
+Madurai,2015-2016,Whole year,2512,126326,50.29,Banana
+Ariyalur,2013-2014,Whole year,30152,6600,0.22,Cashewnut
+Ariyalur,2014-2015,Whole year,30283,11889,0.39,Cashewnut
+Ariyalur,2015-2016,Whole year,30343,2124,0.07,Cashewnut
+coimbatore,2013-2014,Whole year,103,29,0.28,Cashewnut
+coimbatore,2014-2015,Whole year,98,40,0.41,Cashewnut
+coimbatore,2015-2016,Whole year,83,25,0.30,Cashewnut
+Cuddalore,2013-2014,Whole year,30146,12021,0.40,Cashewnut
+Cuddalore,2014-2015,Whole year,29641,11282,0.38,Cashewnut
+Cuddalore,2015-2016,Whole year,30064,15393,0.51,Cashewnut
+Dharmapuri,2013-2014,Whole year,1,0,0.00,Cashewnut
+Madurai,2013-2014,Whole year,168,48,0.29,Cashewnut
+Madurai,2014-2015,Whole year,163,67,0.41,Cashewnut
+Madurai,2015-2016,Whole year,163,50,0.31,Cashewnut
+Ariyalur,2013-2014,Kharif,8815,29867,3.39,Cotton
+Ariyalur,2013-2014,Rabi,303,727,2.40,Cotton
+Ariyalur,2014-2015,Kharif,12841,42839,3.34,Cotton
+Ariyalur,2014-2015,Rabi,536,1829,3.41,Cotton
+Ariyalur,2015-2016,Kharif,8907,12732,1.14,Cotton
+coimbatore,2013-2014,Kharif,336,768,2.29,Cotton
+coimbatore,2013-2014,Rabi,12,29,2.42,Cotton
+coimbatore,2014-2015,kharif,401,1240,3.09,Cotton
+coimbatore,2014-2015,Rabi,38,130,3.42,Cotton
+coimbatore,2015-2016,Kharif,407,833,2.05,Cotton
+coimbatore,2015-2016,Rabi,63,187,2.97,Cotton
+Cuddalore,2013-2014,Kharif,8243,29081,3.53,Cotton
+Cuddalore,2013-2014,Rabi,371,891,2.40,Cotton
+Cuddalore,2014-2015,Kharif,6298,24725,3.93,Cotton
+Cuddalore,2014-2015,Rabi,680,2320,3.41,Cotton
+Cuddalore,2015-2016,Kharif,6890,8146,1.18,Cotton
+Cuddalore,2015-2016,Rabi,320,949,2.97,Cotton
+Dharmapuri,2013-2014,Kharif,11462,33815,2.95,Cotton
+Dharmapuri,2013-2014,Rabi,1024,2641,2.58,Cotton
+Dharmapuri,2014-2015,Kharif,10987,37096,3.38,Cotton
+Dharmapuri,2014-2015,Rabi,694,2648,3.82,Cotton
+Dharmapuri,2015-2016,Kharif,10528,23224,2.21,Cotton
+Dharmapuri,2015-2016,Rabi,338,1002,2.96,Cotton
+Madurai,2013-2014,Kharif,3492,6008,1.72,Cotton
+Madurai,2013-2014,Rabi,2403,3853,1.60,Cotton
+Madurai,2014-2015,Kharif,3979,5316,1.34,Cotton
+Madurai,2014-2015,Rabi,2389,4509,1.89,Cotton
+Madurai,2015-2016,Kharif,4820,9782,2.03,Cotton
+Madurai,2015-2016,Rabi,3161,5783,1.83,Cotton
+Ariyalur,2013-2014,Kharif,6436,21168,3.29,Groundnut
+Ariyalur,2013-2014,Rabi,3571,21760,6.09,Groundnut
+Ariyalur,2014-2015,Kharif,4897,16609,3.39,Groundnut
+Ariyalur,2014-2015,Rabi,4070,21704,5.33,Groundnut
+Ariyalur,2015-2016,Kharif,4351,14672,3.37,Groundnut
+coimbatore,2013-2014,Kharif,4341,10788,2.49,Groundnut
+coimbatore,2013-2014,Rabi,714,1601,2.24,Groundnut
+coimbatore,2014-2015,kharif,4054,9264,2.29,Groundnut
+coimbatore,2014-2015,Rabi,534,656,1.23,Groundnut
+coimbatore,2015-2016,Kharif,4083,8386,2.05,Groundnut
+coimbatore,2015-2016,Rabi,794,2615,3.29,Groundnut
+Cuddalore,2013-2014,Kharif,3354,9102,2.71,Groundnut
+Cuddalore,2013-2014,Rabi,8316,36172,4.35,Groundnut
+Cuddalore,2014-2015,Kharif,2158,5443,2.52,Groundnut
+Cuddalore,2014-2015,Rabi,9214,47585,5.16,Groundnut
+Cuddalore,2015-2016,Kharif,1788,4316,2.41,Groundnut
+Cuddalore,2015-2016,Rabi,7838,57954,7.39,Groundnut
+Dharmapuri,2013-2014,Kharif,10083,25418,2.52,Groundnut
+Dharmapuri,2013-2014,Rabi,3574,8180,2.29,Groundnut
+Dharmapuri,2014-2015,Kharif,6271,14846,2.37,Groundnut
+Dharmapuri,2014-2015,Rabi,2141,8688,4.06,Groundnut
+Dharmapuri,2015-2016,Kharif,7427,20758,2.79,Groundnut
+Dharmapuri,2015-2016,Rabi,3088,8291,2.68,Groundnut
+Madurai,2013-2014,Kharif,1049,2191,2.09,Groundnut
+Madurai,2013-2014,Rabi,1051,2316,2.20,Groundnut
+Madurai,2014-2015,Kharif,1354,2911,2.15,Groundnut
+Madurai,2014-2015,Rabi,1215,2545,2.09,Groundnut
+Madurai,2015-2016,Kharif,1403,2074,1.48,Groundnut
+Madurai,2015-2016,Rabi,1159,2324,2.01,Groundnut
+Ariyalur,2013-2014,Kharif,38,104,2.74,Ragi
+Ariyalur,2013-2014,Rabi,11,44,4.00,Ragi
+Ariyalur,2014-2015,Kharif,20,60,3.00,Ragi
+Ariyalur,2014-2015,Rabi,18,76,4.22,Ragi
+Ariyalur,2015-2016,Kharif,14,42,3.00,Ragi
+coimbatore,2013-2014,Kharif,8,22,2.75,Ragi
+coimbatore,2013-2014,Rabi,2,8,4.00,Ragi
+coimbatore,2014-2015,kharif,10,30,3.00,Ragi
+coimbatore,2014-2015,Rabi,1,4,4.00,Ragi
+coimbatore,2015-2016,Kharif,16,48,3.00,Ragi
+coimbatore,2015-2016,Rabi,6,22,3.67,Ragi
+Cuddalore,2013-2014,Kharif,120,328,2.73,Ragi
+Cuddalore,2013-2014,Rabi,79,313,3.96,Ragi
+Cuddalore,2014-2015,Kharif,61,183,3.00,Ragi
+Cuddalore,2014-2015,Rabi,75,315,4.20,Ragi
+Cuddalore,2015-2016,Kharif,34,101,2.97,Ragi
+Cuddalore,2015-2016,Rabi,56,203,3.63,Ragi
+Dharmapuri,2013-2014,Kharif,20268,60152,2.97,Ragi
+Dharmapuri,2013-2014,Rabi,8339,34782,4.17,Ragi
+Dharmapuri,2014-2015,Kharif,18289,54302,2.97,Ragi
+Dharmapuri,2014-2015,Rabi,5634,27508,4.88,Ragi
+Dharmapuri,2015-2016,Kharif,15726,46832,2.98,Ragi
+Dharmapuri,2015-2016,Rabi,5169,21332,4.13,Ragi
+Madurai,2013-2014,Kharif,44,120,2.73,Ragi
+Madurai,2013-2014,Rabi,16,63,3.94,Ragi
+Madurai,2014-2015,Kharif,10,30,3.00,Ragi
+Madurai,2014-2015,Rabi,3,13,4.33,Ragi
+Madurai,2015-2016,Kharif,22,66,3.00,Ragi
+Madurai,2015-2016,Rabi,7,25,3.57,Ragi
+Ariyalur, 2013-14,Kharif     ,24437,131658,5.39,Rice
+Ariyalur, 2014-15,Kharif     ,23108,116239,5.03,Rice
+Ariyalur, 2015-16,Kharif     ,24408,124179,5.09,Rice
+coimbatore, 2013-14,Kharif     ,2158,10139,4.70,Rice
+coimbatore, 2014-15,Kharif     ,2166,9969,4.60,Rice
+coimbatore, 2015-16,Kharif     ,2034,7942,3.90,Rice
+Cuddalore, 2013-14,Kharif     ,127485,565960,4.44,Rice
+Cuddalore, 2014-15,Kharif     ,134677,641958,4.77,Rice
+Cuddalore, 2015-16,Kharif     ,139987,507130,3.62,Rice
+Dharmapuri, 2013-14,Kharif     ,26689,132535,4.97,Rice
+Dharmapuri, 2014-15,Kharif     ,18303,95163,5.20,Rice
+Dharmapuri, 2015-16,Kharif     ,33349,149426,4.48,Rice
+Madurai, 2013-14,Kharif     ,35268,163965,4.65,Rice
+Madurai, 2014-15,Kharif     ,47717,197498,4.14,Rice
+Madurai, 2015-16,Kharif     ,55983,203670,3.64,Rice
